@@ -1,5 +1,12 @@
 # John Tran - Empower Spend Tracking
 
+## Running this
+
+```bash
+npm install
+npm run dev
+```
+
 ## Things to Note
 
 - Unit tests for each user story
